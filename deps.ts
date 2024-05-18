@@ -4,7 +4,7 @@ export * as ConsoleColor from "https://deno.land/x/colorlog@v1.0/mod.ts";
 //       latest deno version.
 export { default as SQLQueryBuilder } from "https://deno.land/x/dex@1.0.2/mod.ts";
 
-export { camelCase, snakeCase } from "https://deno.land/x/case@v2.2.0/mod.ts";
+export { camelCase, snakeCase } from "https://deno.land/x/case@2.2.0/mod.ts";
 
 export {
   Client as MySQLClient,
